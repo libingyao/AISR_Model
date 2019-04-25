@@ -1,6 +1,7 @@
 .DS_Store
 .vscode/
 common/cfitsio
+Makefile.rule
 client
 hps
 lps

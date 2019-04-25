@@ -5,4 +5,4 @@ Astronomical Image Subset Simulator
 * mysql-client (which depends on openssl)
 * CFITSIO (which depends on curl)
 
-Please intall the above lib and modify the path in Makefile
+Please intall the above lib and modify the path var in Makefile.rule
