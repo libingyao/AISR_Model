@@ -1,4 +1,0 @@
-MYSQLCLIENT_DIR = /usr/local/opt/mysql-client
-OPENSSL_DIR     = /usr/local/opt/openssl
-CURL_DIR        = /usr/local/opt/curl
-CFITSIO         = common/cfitsio/
