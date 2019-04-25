@@ -10,7 +10,11 @@ Astronomical Image Subset Simulator
 2. create a new file, named as `Makefile.rule`, in this project's root dir
 3. establish the following path vars in Makefile.rule, according to your local settings
 
-`MYSQLCLIENT_DIR = /usr/local/opt/mysql-client`
-`OPENSSL_DIR     = /usr/local/opt/openssl`
-`CURL_DIR        = /usr/local/opt/curl`
-`CFITSIO         = common/cfitsio`
+## Example Makefile.rule
+MYSQLCLIENT_DIR = /usr/local/opt/mysql-client
+
+OPENSSL_DIR     = /usr/local/opt/openssl
+
+CURL_DIR        = /usr/local/opt/curl
+
+CFITSIO         = common/cfitsio
