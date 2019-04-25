@@ -14,7 +14,7 @@
 #include <string.h>
 #include <string>
 #include <list>
-#include "mysql.h"
+#include "AllFunc.h"
 #include "struct.h"
 
 MYSQL *connection = NULL;

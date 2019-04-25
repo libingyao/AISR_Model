@@ -31,9 +31,6 @@
 #include "fitsio.h"
 #include <sstream>
 
-
-
-
 #include "struct.h"
 #include "variables.h"
 
