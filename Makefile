@@ -23,4 +23,3 @@ lps: $(LPS)
 
 clean:
 	rm -f client hps lps
-
