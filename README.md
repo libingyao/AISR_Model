@@ -1,5 +1,5 @@
-# AISR_Simulator
-Astronomical Image Subset Simulator
+# AISR_Model
+Astronomical image data management and subsets retrieval min-cost-model in the cloud
 
 # Dependency
 * mysql-client (which depends on openssl)
